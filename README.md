@@ -1,3 +1,4 @@
+<img src="https://github.com/fatimawaseem15/fatimawaseem15/blob/main/Fatima%20Waseem%20(1).png" alt="Banner image">
 <h1 align="center">Hi 👋, I'm Fatima Waseem</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
