@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatima Waseem</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Web Developer from Pakistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimawaseem15" alt="fatimawaseem15" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **with other content creators**
 
-- 👨‍💻 All of my projects are available at [GitHub](GitHub)
+- 👨‍💻 All of my projects are available at [https://github.com/fatimawaseem15](https://github.com/fatimawaseem15)
 
 - 📫 How to reach me **fatimawaseem5000@gmail.com**
 
